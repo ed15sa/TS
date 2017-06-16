@@ -6,4 +6,6 @@ Trabajo de sintesis
 - [ ] Grafica de Mates
 - [ ] Sociales
 - [ ] Economia
-- [ ] Ingles
+- [ ] Ingles Actividades revista
+- [ ] Biologia
+- [ ] Mates calcular las medias
