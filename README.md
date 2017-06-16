@@ -2,7 +2,7 @@
 Trabajo de sintesis
 
 - [ ] Editorial Castellano
-- [ ] Editorial Catalan
+- [x] Editorial Catalan
 - [ ] Grafica de Mates
 - [ ] Sociales
 - [ ] Economia
