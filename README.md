@@ -8,5 +8,5 @@ Trabajo de sintesis
 - [ ] Economia
 - [ ] Ingles Actividades revista
 - [ ] Biologia
-- [ ] Mates calcular las medias
+- [x] Mates calcular las medias
 - [ ] Mates Graficos
