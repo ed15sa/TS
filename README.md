@@ -9,3 +9,4 @@ Trabajo de sintesis
 - [ ] Ingles Actividades revista
 - [ ] Biologia
 - [ ] Mates calcular las medias
+- [ ] Mates Graficos
