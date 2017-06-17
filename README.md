@@ -6,18 +6,18 @@
 | ------------------- |
 |      25% Hecho:white_check_mark:      |
 |      50% Hecho:white_check_mark:      |
-|      75% Hecho:x:      |
+|      75% Hecho:white_check_mark:      |
 |      100% Hecho:x:     |
 |      Imprimido:x:      |
 
 - [x] Editorial Castellano
 - [x] Editorial Catalan
 - [x] Grafica de Mates
-- [ ] Sociales
+- [x] Sociales
 - [x] Economia
 - [ ] Economia entrevistas
 - [ ] Ingles Actividades revista
-- [ ] Biologia
+- [x] Biologia
 - [x] Mates calcular las medias
 - [ ] Mates Graficos
 - [ ] Hacer que el Isma trabaje
