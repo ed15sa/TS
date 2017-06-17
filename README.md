@@ -4,11 +4,11 @@
 
 | Projecte de Recerca |
 | ------------------- |
-|      25% Hecho      |
-|      50% Hecho      |
-|      75% Hecho      |
-|      100% Hecho     |
-|      Imprimido      |
+|      25% Hecho:white_check_mark:      |
+|      50% Hecho:white_check_mark:      |
+|      75% Hecho:x:      |
+|      100% Hecho:x:     |
+|      Imprimido:x:      |
 
 - [x] Editorial Castellano
 - [x] Editorial Catalan
