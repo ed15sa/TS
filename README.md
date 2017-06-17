@@ -1,6 +1,7 @@
 # TS
 :fire:Trabajo de sintesis:fire:
 > :anguished:Las editoriales estan aqui arriba, en los archivos
+
 | Projecte de Recerca |
 | ------------------- |
 |      25% Hecho      |
