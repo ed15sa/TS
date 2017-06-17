@@ -15,15 +15,15 @@
 - [x] Grafica de Mates
 - [x] Sociales
 - [x] Economia
-- [ ] Economia entrevistas
+- [x] Economia entrevistas
 - [ ] Ingles Actividades revista
 - [x] Biologia
 - [x] Mates calcular las medias
-- [ ] Mates Graficos
-- [ ] Hacer que el Isma trabaje
+- [x] Mates Graficos
+- [x] Hacer que el Isma trabaje(Impossible)
 - [ ] Ordenar todas las páginas para Imprimir
 - [x] Tabla de mates
 - [x] Economia precios
 - [x] Croquis de mates
-- [ ] Insertar graficos de mates en el publisher
+- [x] Insertar graficos de mates en el publisher
 
