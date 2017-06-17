@@ -12,7 +12,7 @@
 
 - [x] Editorial Castellano
 - [x] Editorial Catalan
-- [ ] Grafica de Mates
+- [x] Grafica de Mates
 - [ ] Sociales
 - [ ] Economia
 - [ ] Economia entrevistas
