@@ -9,7 +9,7 @@
 |      75% Hecho:white_check_mark:      |
 |      100% Hecho:white_check_mark:       |
 |      Revisión:white_check_mark:      |
-|      Imprimido:x:      |
+|      Imprimido:white_check_mark:     |
 
 - [x] Editorial Castellano
 - [x] Editorial Catalan
