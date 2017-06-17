@@ -18,7 +18,7 @@
 - [x] Economia
 - [x] Economia entrevistas
 - [x] Ingles Actividades revista
-- [ ] Biologia:sweat_smile:
+- [x] Biologia:sweat_smile:
 - [x] Mates calcular las medias
 - [x] Mates Graficos
 - [ ] Hacer que el Isma trabaje(Impossible)
