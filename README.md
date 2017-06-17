@@ -27,5 +27,5 @@
 - [x] Economia precios
 - [x] Croquis de mates
 - [x] Insertar graficos de mates en el publisher
-- [ ] Tecnooooooooo:sob:
+- [x] Tecnooooooooo:sob:
 
