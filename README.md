@@ -7,7 +7,7 @@
 |      25% Hecho:white_check_mark:      |
 |      50% Hecho:white_check_mark:      |
 |      75% Hecho:white_check_mark:      |
-|      100% Hecho:x:     |
+|      100% Hecho:white_check_mark:       |
 |      Revisión:x:     |
 |      Imprimido:x:      |
 
@@ -21,7 +21,7 @@
 - [x] Biologia:sweat_smile:
 - [x] Mates calcular las medias
 - [x] Mates Graficos
-- [ ] Hacer que el Isma trabaje(Impossible)
+- [x] Hacer que el Isma trabaje(Impossible)
 - [ ] Ordenar todas las páginas para Imprimir
 - [x] Tabla de mates
 - [x] Economia precios
