@@ -14,7 +14,7 @@
 - [x] Editorial Catalan
 - [x] Grafica de Mates
 - [ ] Sociales
-- [ ] Economia
+- [x] Economia
 - [ ] Economia entrevistas
 - [ ] Ingles Actividades revista
 - [ ] Biologia
