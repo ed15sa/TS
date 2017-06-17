@@ -15,6 +15,7 @@
 - [ ] Grafica de Mates
 - [ ] Sociales
 - [ ] Economia
+- [ ] Economia entrevistas
 - [ ] Ingles Actividades revista
 - [ ] Biologia
 - [x] Mates calcular las medias
