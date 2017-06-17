@@ -25,4 +25,5 @@
 - [x] Tabla de mates
 - [x] Economia precios
 - [x] Croquis de mates
+- [ ] Insertar graficos de mates en el publisher
 
