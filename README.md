@@ -21,3 +21,4 @@
 - [x] Mates calcular las medias
 - [ ] Mates Graficos
 - [ ] Hacer que el Isma trabaje
+- [ ] Ordenar todas las páginas para Imprimir
