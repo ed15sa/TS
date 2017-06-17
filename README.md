@@ -8,6 +8,7 @@
 |      50% Hecho:white_check_mark:      |
 |      75% Hecho:white_check_mark:      |
 |      100% Hecho:x:     |
+|      Revisión:x:     |
 |      Imprimido:x:      |
 
 - [x] Editorial Castellano
