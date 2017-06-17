@@ -8,7 +8,7 @@
 |      50% Hecho:white_check_mark:      |
 |      75% Hecho:white_check_mark:      |
 |      100% Hecho:white_check_mark:       |
-|      Revisión:x:     |
+|      Revisión:white_check_mark:      |
 |      Imprimido:x:      |
 
 - [x] Editorial Castellano
@@ -22,7 +22,7 @@
 - [x] Mates calcular las medias
 - [x] Mates Graficos
 - [x] Hacer que el Isma trabaje(Impossible)
-- [ ] Ordenar todas las páginas para Imprimir
+- [x] Ordenar todas las páginas para Imprimir
 - [x] Tabla de mates
 - [x] Economia precios
 - [x] Croquis de mates
