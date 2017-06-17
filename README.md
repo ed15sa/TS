@@ -17,7 +17,7 @@
 - [x] Economia
 - [x] Economia entrevistas
 - [ ] Ingles Actividades revista
-- [x] Biologia
+- [ ] Biologia
 - [x] Mates calcular las medias
 - [x] Mates Graficos
 - [x] Hacer que el Isma trabaje(Impossible)
