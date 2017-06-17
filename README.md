@@ -18,7 +18,7 @@
 - [x] Economia
 - [x] Economia entrevistas
 - [ ] Ingles Actividades revista
-- [ ] Biologia
+- [ ] Biologia:sweat_smile:
 - [x] Mates calcular las medias
 - [x] Mates Graficos
 - [ ] Hacer que el Isma trabaje(Impossible)
@@ -27,4 +27,5 @@
 - [x] Economia precios
 - [x] Croquis de mates
 - [x] Insertar graficos de mates en el publisher
+- [ ] Tecnooooooooo:sob:
 
