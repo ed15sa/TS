@@ -1,6 +1,6 @@
 # TS
-Trabajo de sintesis
-> Las editoriales estan aqui arriba, en los archivos 
+:fire:Trabajo de sintesis:fire:
+> :anguished:Las editoriales estan aqui arriba, en los archivos
 
 - [x] Editorial Castellano
 - [x] Editorial Catalan
