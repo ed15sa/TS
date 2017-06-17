@@ -21,7 +21,7 @@
 - [ ] Biologia
 - [x] Mates calcular las medias
 - [x] Mates Graficos
-- [x] Hacer que el Isma trabaje(Impossible)
+- [ ] Hacer que el Isma trabaje(Impossible)
 - [ ] Ordenar todas las páginas para Imprimir
 - [x] Tabla de mates
 - [x] Economia precios
