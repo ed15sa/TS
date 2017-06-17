@@ -23,4 +23,5 @@
 - [ ] Hacer que el Isma trabaje
 - [ ] Ordenar todas las páginas para Imprimir
 - [ ] Tabla de mates
+- [x] Economia precios
 
